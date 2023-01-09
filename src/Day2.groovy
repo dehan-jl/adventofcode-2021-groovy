@@ -8,7 +8,7 @@ class Day2 {
     }
 
     static def part1() {
-        println "Day 1 Part 1"
+        println "Day 2 Part 1"
         def x = 0
         def d = 0
         readInput().each {
@@ -29,7 +29,7 @@ class Day2 {
     }
 
     static def part2() {
-        println "Day 1 Part 2"
+        println "Day 2 Part 2"
         def x = 0
         def d = 0
         def aim = 0
